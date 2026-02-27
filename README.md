@@ -1,6 +1,6 @@
 # ENTP
 
-This repository is the official implementation of "Fast and Accurate Element-Level Streaming CP Decomposition for Higher-Order Tensors" (submitted to ICDE 2026).
+This repository is the official implementation of "Fast and Accurate Element-Level Streaming CP Decomposition for Higher-Order Tensors" (ICDE 2026).
 
 ## Abstract
 
