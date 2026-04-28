@@ -21,3 +21,15 @@ The datasets are available at [VicRoads](https://github.com/florinsch/BigTraffic
 | VicRoads    | $1084 \times 96 \times 2030$ | $1084 \times 96 \times 7 \times 290$ | $1084$      |
 | PEMS        | $963 \times 144 \times 448$  | $963 \times 144 \times 7 \times 64$  | $963$       |
 | Electricity | $370 \times 96 \times 1092$  | $370 \times 96 \times 7 \times 156$  | $370$       |
+
+## Reference
+
+If you use this code, please cite the following paper.
+```bibtex
+@inproceedings{lee2026fast,
+  author={Lee, Jeongyoung and Lee, SeungJoo and Kang, U},
+  title={Fast and Accurate Element-Level Streaming CP Decomposition for Higher-Order Tensors},
+  booktitle    = {42nd {IEEE} International Conference on Data Engineering, {ICDE} 2026},
+  publisher    = {{IEEE}},
+  year         = {2026},
+}
