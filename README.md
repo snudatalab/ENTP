@@ -29,7 +29,7 @@ If you use this code, please cite the following paper.
 @inproceedings{lee2026fast,
   author={Lee, Jeongyoung and Lee, SeungJoo and Kang, U},
   title={Fast and Accurate Element-Level Streaming CP Decomposition for Higher-Order Tensors},
-  booktitle    = {42nd {IEEE} International Conference on Data Engineering, {ICDE} 2026},
-  publisher    = {{IEEE}},
-  year         = {2026},
+  booktitle={42nd {IEEE} International Conference on Data Engineering, {ICDE} 2026},
+  publisher={{IEEE}},
+  year={2026},
 }
